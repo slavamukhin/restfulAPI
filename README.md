@@ -12,17 +12,17 @@
 
 |Method|URL|Description|
 |-|-|-|
-|GET|/api|Welcome to our api|
-|POST|/api/bears|Bear created|
+|GET|/api|Welcome to api|
+|POST|/api/bears|Create bear|
 |GET|/api/bears|Get bears|
 |GET|/api/bears/:bear_id|Get bear|
-|PUT|/api/bears/:bear_id|Bear update|
-|DELETE|/api/bears/:bear_id|Bear delete|
+|PUT|/api/bears/:bear_id|Update bear|
+|DELETE|/api/bears/:bear_id|Delete bear|
 
 ### Testing API
 Will use [Postman](https://chrome.google.com/webstore/detail/postman/fhbjgbiflinjbdggehcddcbncdddomop)
 
 ### Installation
 * Clone the repo 
-* Run command npm install
-* Run command npm start
+* Run command `npm install`
+* Run command `npm start`
